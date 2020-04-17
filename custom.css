@@ -1,0 +1,17 @@
+body {
+    background-color: 	#FDF8FF;
+  }
+  
+.list-group {
+    width: 40rem;
+    margin-left: auto;
+    margin-right:  auto;
+    margin-top: 5rem;
+}
+
+.jumbotron {
+    width: 50rem;
+    margin-left: auto;
+    margin-right:  auto;
+    margin-top: 3rem;
+}
